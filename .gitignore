@@ -3,10 +3,10 @@ DerivedDataCache
 Intermediate
 Saved
 Build
-Content
-**/Assets
-**/Developers
-**/Collections
+Content/Assets/
+Content/Developers
+Content/Collections
+
 
 .vscode
 .vs
