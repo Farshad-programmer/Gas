@@ -1,0 +1,1 @@
+The assets and parts of the project are not included in the source control. you can find the download link here. you should first download these files, add them to the project, and then open it.
